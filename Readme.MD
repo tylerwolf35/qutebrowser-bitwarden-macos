@@ -1,3 +1,5 @@
+# This fork will be an updated version of the userscript with some improvements. The plans are to add password hashing to make the script more secure, as well as to add support for TOTP. I am also looking at replacing bw with rbw.
+
 ## How to install
 
 - Install [Bitwarden CLI](https://bitwarden.com/help/article/cli/) with the command `brew install bw`. Then you have to login before using the user script. Run in terminal `bw login`
